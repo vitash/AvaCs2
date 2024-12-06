@@ -10,7 +10,7 @@
     <AndroidPackageFormat>apk</AndroidPackageFormat>
     <AndroidEnableProfiledAot>true</AndroidEnableProfiledAot>
 
-    <RunAOTCompilation>true</RunAOTCompilation>
+    <!-- <RunAOTCompilation>true</RunAOTCompilation> -->
 
   </PropertyGroup>
 
